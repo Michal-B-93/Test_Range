@@ -11,7 +11,12 @@ public class MainClass {
 		
 		//WaitSleep ws = new WaitSleep();
 		
-		Anagram anagram = new Anagram("roifsnerfsdwcv", "roifsnerfsdcv");
+		//Anagram anagram = new Anagram("roifsnerfsdcv", "roifsnerfsdcv");
 		
+		//System.out.println(Anagram_v2.areAnagrams("ergrthgrthfvf", "ergrthgrthfvf"));
+		
+		//new SubsequentRandomValues(70, 1000, 20);
+		
+		System.out.println(NokiaTest2.solution(60));
 	}
 }
